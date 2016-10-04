@@ -1,7 +1,7 @@
 # CodyHouse Animated Headlines for Meteor
 ## Packaged by t3db0t
 
-Original source: https://codyhouse.co/gem/css-animated-headlines/
+Original source and demo: https://codyhouse.co/gem/css-animated-headlines/
 
 ## Beautiful but extremely easy-to-use animated headlines
 
@@ -30,5 +30,7 @@ Template.demo.onRendered(function(){
   AnimatedHeadlines();
 });
 ```
+
+Demo Meteor code: https://github.com/t3db0t/meteor-animated-headlines-demo
 
 AND THAT'S IT!
